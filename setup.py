@@ -6,7 +6,6 @@ setup(
     name="sampleproject",
     version=1.0,
     install_requires=[
-        "autobahn"
     ],
 
     package_dir={'': 'src'},  # Optional
