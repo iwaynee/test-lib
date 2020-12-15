@@ -6,8 +6,7 @@ setup(
     name="sampleproject",
     version=1.0,
     install_requires=[
-        "autobahn",
-        "twisted"
+        "autobahn"
     ],
 
     package_dir={'': 'src'},  # Optional
